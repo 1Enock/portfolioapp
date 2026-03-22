@@ -1,0 +1,17 @@
+.h1{
+    font-weight: bolder;
+    font-size: larger;
+}
+.p{
+    font-weight: bolder;
+    font-style: italic;
+}
+.a{
+    color: red;
+}
+.img{
+    justify-content: left;
+}
+.li{
+    justify-content: left;
+}
